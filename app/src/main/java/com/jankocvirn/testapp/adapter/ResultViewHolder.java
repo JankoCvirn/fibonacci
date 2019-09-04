@@ -7,13 +7,6 @@ import butterknife.BindView;
 import butterknife.ButterKnife;
 import com.jankocvirn.testapp.R;
 
-/**
- * TestApp
- * com.jankocvirn.testapp.adapter
- * Created by janko on 31.10.17..
- * Description:
- * Usage:
- */
 
 public class ResultViewHolder extends RecyclerView.ViewHolder {
 

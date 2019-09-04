@@ -1,13 +1,5 @@
 package com.jankocvirn.testapp.model;
 
-/**
- * TestApp
- * com.jankocvirn.testapp.model
- * Created by janko on 31.10.17..
- * Description:
- * Usage:
- */
-
 public class Result {
 
     private long i;

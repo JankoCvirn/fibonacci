@@ -42,7 +42,6 @@ public class MainActivity extends BaseActivity {
         recyclerView.setAdapter(resultsAdapter);
         resultsAdapter.addResult(new Result(100, 100));
 
-        //Test git
         Intent i = new Intent(getApplicationContext(), FibonacciService.class);
         getApplicationContext().startService(i);
     }

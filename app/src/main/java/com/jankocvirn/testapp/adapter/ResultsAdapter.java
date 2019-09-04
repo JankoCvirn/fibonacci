@@ -9,14 +9,6 @@ import com.jankocvirn.testapp.model.Result;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * TestApp
- * com.jankocvirn.testapp.adapter
- * Created by janko on 31.10.17..
- * Description:
- * Usage:
- */
-
 public class ResultsAdapter extends RecyclerView.Adapter<ResultViewHolder> {
 
     private final List<Result> resultList = new ArrayList<>();
